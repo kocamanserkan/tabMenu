@@ -9,7 +9,7 @@ $(document).ready(function(){
 
     $(".tab li").click(function(){
 
-        //1.yol
+       
 
         var indis = $(this).index();
         
